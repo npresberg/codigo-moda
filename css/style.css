@@ -350,7 +350,7 @@ h6 {
 }
 
 .nav-menu li.buy-tickets a {
-  color: #33333;
+  color: #333333;
   background: #BA483A;
   padding: 7px 22px;
   border-radius: 50px;
@@ -763,7 +763,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #C2B88B;
   position: absolute;
   left: 0;
-  bottom: -30px;
+  bottom: -65px;
   right: 0;
   text-align: center;
   padding-top: 10px;
@@ -785,7 +785,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details .social {
-  height: 30px;
+  height: 65px;
 }
 
 #speakers .speaker .details a {
@@ -801,7 +801,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details {
-  padding: 60px 0;
+  padding: 65px 0;
 }
 
 #speakers-details .details h2 {
