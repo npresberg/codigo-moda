@@ -17,9 +17,7 @@
   background: #e0072f;
 }
 
-#cursos h2 {
-  margin-top: 50px;
-}
+
 
 #cursos p {
   margin-bottom: 15px;
@@ -178,6 +176,7 @@ h6 {
   text-align: center;
   font-weight: 700;
   margin-bottom: 10px;
+  margin-top: 80px;
 }
 
 .section-header p {
