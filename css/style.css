@@ -197,6 +197,7 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
+  background: rgba(255, 255, 255, 0.8);
   height: 90px;
   padding: 25px 0;
   position: fixed;
@@ -205,16 +206,11 @@ h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
-}
-
-#header.header-scrolled,
-#header.header-fixed {
-  background: rgb(51, 51, 51, 0.4);
   height: 100px;
   padding: 15px 0;
-  transition: all 0.5s;
-  color: #fff;
+  color: #333333px;
 }
+
 
 #header #logo h1 {
   font-size: 36px;
@@ -327,7 +323,7 @@ h6 {
 
 .nav-menu .menu-active a,
 .nav-menu a:hover {
-  color: #fff;
+  color: #333333;
 }
 
 .nav-menu > li {
@@ -354,7 +350,7 @@ h6 {
 }
 
 .nav-menu li.buy-tickets a {
-  color: #fff;
+  color: #33333;
   background: #BA483A;
   padding: 7px 22px;
   border-radius: 50px;
@@ -522,7 +518,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(../img/intro-bg-01.jpg) top center;
+  background: url(../img/intro-bg-3-01.jpg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
