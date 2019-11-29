@@ -208,7 +208,7 @@ h6 {
   z-index: 997;
   height: 100px;
   padding: 15px 0;
-  color: #333333px;
+  color: #333333;
 }
 
 
@@ -421,7 +421,7 @@ h6 {
 }
 
 #mobile-nav-toggle i {
-  color: #fff;
+  color: #000000;
 }
 
 /* Mobile Nav Styling */
@@ -1748,8 +1748,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 991px) {
   #header {
-    background: #333333;
-    height: 70px;
+    background: rgba(255, 255, 255, 0.8);
+    height: 90px;
     padding: 15px 0;
     transition: all 0.5s;
   }
